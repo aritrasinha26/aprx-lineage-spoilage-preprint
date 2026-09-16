@@ -1,0 +1,55 @@
+{
+  "marker_motif": "SVMSY",
+  "figure2_reference_width": 974,
+  "figure2_reference_height": 1700,
+  "figure2_ocr_crop": [
+    280,
+    0,
+    500,
+    1700
+  ],
+  "figure2_heatmap_x_centers": [
+    507,
+    515,
+    523
+  ],
+  "phenotype_palette": {
+    "non": [
+      43,
+      124,
+      186
+    ],
+    "weak": [
+      126,
+      178,
+      188
+    ],
+    "moderate": [
+      253,
+      252,
+      190
+    ],
+    "strong": [
+      242,
+      164,
+      122
+    ],
+    "very_strong": [
+      225,
+      25,
+      20
+    ]
+  },
+  "phenotype_scores": {
+    "non": 0,
+    "weak": 1,
+    "moderate": 2,
+    "strong": 3,
+    "very_strong": 4
+  },
+  "ocr_min_confidence": 20,
+  "fuzzy_match_min_score": 60,
+  "site_test_min_residue_count": 5,
+  "permutation_iterations": 10000,
+  "random_seed": 20260915
+}

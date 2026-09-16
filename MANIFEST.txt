@@ -1,0 +1,13 @@
+Included zip archives merged into this bundle:
+- aprx_preprint_automation.zip
+- aprx_phase2_automation.zip
+- aprx_phase3_phylogeny.zip
+- aprx_operon_ocr_patch.zip
+- aprx_phase4_phylo_diagnostics.zip
+- aprx_phase5_external_validation.zip
+- aprx_phase5_marker_patch.zip
+- aprx_phase6_external_phylogeny.zip
+- aprx_phase7_figures_stats.zip
+- aprx_phase8_operon_homology.zip
+- aprx_phase9_final_architecture_figures.zip
+- aprx_operon_correction.zip
